@@ -1,2 +1,2 @@
 # PPL-Assignments-Project
-Atharva Phand SY Comp Div-1 MIS-111803092
+Demonstration of 9 Assignments and a Mini Project
